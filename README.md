@@ -11,6 +11,9 @@ The **Personal Finance Assistant LLM** is an AI-powered tool designed to help in
 - **Investment Advice**: Provides tailored recommendations for investment strategies based on user preferences.
 - **Financial Insights**: Analyzes financial data and offers actionable advice for better financial planning.
 
+![image](https://github.com/user-attachments/assets/3c30a4bc-16f4-4307-86ca-54f70465774a)
+
+
 ## Installation
 
 1. Clone the repository:
